@@ -1,0 +1,19 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Image processing cache (Optional but recommended for a clean repo)
+resources/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local environment / IDE
+.vscode/
+.idea/
+.env
+*.log
+
+# Hugo server lock file
+.hugo_build.lock
