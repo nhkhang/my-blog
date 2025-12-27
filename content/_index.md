@@ -4,7 +4,7 @@ title: "Home"
 
 ### Currently Building
 - **[[Quack Debug]](/projects/quack-debug)** – macOS virtual copilot debugging duck.
-- **[[Agentic Mechanical]](/projects/mechanical-platform)** – Automating and digitizing the 2D CAD workflow for mechanical engineering.
+- **[[MECHAgent]](/projects/mechanical-platform)** – Automating and digitizing the 2D CAD workflow for mechanical engineering.
 
 <div class="mt-4">
 {{< button href="/projects" >}}View my projects{{< /button >}}
